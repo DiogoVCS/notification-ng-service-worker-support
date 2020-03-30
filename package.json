@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "Extends the angular service worker, allowing to click on notification when in the background",
   "license": "MIT",
-  "main": "index.js",
+  "main": "refactored-service-worker.js",
   "keywords": [
     "angular",
     "npm",
     "package"
-  ]
+  ],
+  "dependencies": {
+    "@angular/service-worker": "^9.1.0"
+  }
 }
