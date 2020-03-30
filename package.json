@@ -1,0 +1,5 @@
+{
+    "name": "@valientpt/notifications-ng-service-worker-support",
+    "version": "1.0.0",
+    "description": "Extends the angular service worker, allowing to click on notification when in the background"
+}
